@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Hello from './Hello.js';
 import reportWebVitals from './reportWebVitals';
+import {robots} from './robots';
+import App from './App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <Hello />
-  </React.StrictMode>
+  <App />
 );
 
 

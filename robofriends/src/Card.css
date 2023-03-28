@@ -1,0 +1,18 @@
+.card-container {
+  display: flex;
+}
+
+.card {
+  padding: 5px;
+  background-color: #95E6CA;
+  margin: 5px;
+  border: 3px solid grey;
+  text-align: center;
+  border-radius: 15px;
+}
+
+
+img {
+  width: 100px;
+  height: 100px;
+}
