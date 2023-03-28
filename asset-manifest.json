@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-kurs-04-23/robofriends/static/css/main.89b43efc.css",
-    "main.js": "/react-kurs-04-23/robofriends/static/js/main.d5d98eb5.js",
-    "static/js/787.32032a02.chunk.js": "/react-kurs-04-23/robofriends/static/js/787.32032a02.chunk.js",
-    "index.html": "/react-kurs-04-23/robofriends/index.html",
-    "main.89b43efc.css.map": "/react-kurs-04-23/robofriends/static/css/main.89b43efc.css.map",
-    "main.d5d98eb5.js.map": "/react-kurs-04-23/robofriends/static/js/main.d5d98eb5.js.map",
-    "787.32032a02.chunk.js.map": "/react-kurs-04-23/robofriends/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/react-kurs-04-23/static/css/main.89b43efc.css",
+    "main.js": "/react-kurs-04-23/static/js/main.d1f8c50d.js",
+    "static/js/787.32032a02.chunk.js": "/react-kurs-04-23/static/js/787.32032a02.chunk.js",
+    "index.html": "/react-kurs-04-23/index.html",
+    "main.89b43efc.css.map": "/react-kurs-04-23/static/css/main.89b43efc.css.map",
+    "main.d1f8c50d.js.map": "/react-kurs-04-23/static/js/main.d1f8c50d.js.map",
+    "787.32032a02.chunk.js.map": "/react-kurs-04-23/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89b43efc.css",
-    "static/js/main.d5d98eb5.js"
+    "static/js/main.d1f8c50d.js"
   ]
 }
